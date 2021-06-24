@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1074396935817",
+    "project_id": "travels-fe0cc",
+    "storage_bucket": "travels-fe0cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074396935817:android:fbcbba8bd5b4ca01bc7858",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.pacotedeviagens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074396935817-03d2oohk0fnvt87rgimaiq0jnl9rrmor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.senai.sp.jandira.pacotedeviagens",
+            "certificate_hash": "2732108fa9926d15d3b8fbc7e1fb5a55f2899190"
+          }
+        },
+        {
+          "client_id": "1074396935817-af96fbkppfi0l0bi8heau4l4l08ldcrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDt4uRc2Cljk9nkOxMQEmEvAi376rXNcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074396935817-af96fbkppfi0l0bi8heau4l4l08ldcrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
